@@ -18,7 +18,7 @@
     "@antv/g2": "^4.0.1",
     "@antv/l7": "^2.0.35",
     "@antv/l7-maps": "^2.0.35",
-    "axios": "0.17.1",
+    "axios": "0.18.1",
     "babel-plugin-component": "0.10.1",
     "babel-polyfill": "6.26.0",
     "dayjs": "^1.8.21",
